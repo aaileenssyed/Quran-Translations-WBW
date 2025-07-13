@@ -93,3 +93,34 @@ function displaySurah(data) {
     container.appendChild(ayahBlock);
   });
 }
+
+function getSurahNumberFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  return parseInt(params.get("number"));
+}
+
+// Fetch surah names
+async function loadSurahTitle() {
+  const surahNumber = getSurahNumberFromURL();
+  if (!surahNumber) {
+    document.title = "Surah Not Found";
+    return;
+  }
+
+  try {
+    const response = await fetch("data/surahs.json");
+    const surahs = await response.json();
+
+    const surah = surahs.find(s => s.number === surahNumber);
+    if (surah) {
+      document.title = `Surah ${surah.name}`;
+    } else {
+      document.title = "Surah Not Found";
+    }
+  } catch (error) {
+    console.error("Failed to load surahs.json:", error);
+    document.title = "Error Loading Surah";
+  }
+}
+
+loadSurahTitle();
