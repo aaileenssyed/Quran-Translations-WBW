@@ -1,0 +1,263 @@
+{
+  "surah_name": "Al-Fatihah",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "words": [
+        {
+          "arabic": "بِسْمِ",
+          "urdu": "شروع",
+          "urduTranslitEng": "Shuru",
+          "urduTranslitTelugu": "శురూ"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "urdu": "اللہ",
+          "urduTranslitEng": "Allah",
+          "urduTranslitTelugu": "అల్లాహ్"
+        },
+        {
+          "arabic": "الرَّحْمَٰنِ",
+          "urdu": "رحمٰن",
+          "urduTranslitEng": "Rahmaan",
+          "urduTranslitTelugu": "రహ్‌మాన్"
+        },
+        {
+          "arabic": "الرَّحِيمِ",
+          "urdu": "رحیم",
+          "urduTranslitEng": "Raheem",
+          "urduTranslitTelugu": "రహీమ్"
+        }
+      ],
+      "translation": {
+        "english": "In the name of Allah, the Most Gracious, the Most Merciful.",
+        "urdu": "شروع اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔",
+        "urduTranslitEng": "Shuru Allah ke naam se jo bara Meherbaan nihayat Reham wala hai.",
+        "urduTranslitTelugu": "శురూ అల్లాహ్ కే నామ్ సె జో బడా మెహర్‌బాన్ నిహాయత్ రెహమ్ వాలా హై."
+      }
+    },
+    {
+      "number": 2,
+      "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "words": [
+        {
+          "arabic": "الْحَمْدُ",
+          "urdu": "تمام تعریفیں",
+          "urduTranslitEng": "Tamaam tareefein",
+          "urduTranslitTelugu": "అన్నీ ప్రశంసలు"
+        },
+        {
+          "arabic": "لِلَّهِ",
+          "urdu": "اللہ کے لیے",
+          "urduTranslitEng": "Allah ke liye",
+          "urduTranslitTelugu": "అల్లాహ్ కోసం"
+        },
+        {
+          "arabic": "رَبِّ",
+          "urdu": "پروردگار",
+          "urduTranslitEng": "Parwardigaar",
+          "urduTranslitTelugu": "పర్వర్దిగార్"
+        },
+        {
+          "arabic": "الْعَالَمِينَ",
+          "urdu": "تمام جہانوں کا",
+          "urduTranslitEng": "Tamaam jahanon ka",
+          "urduTranslitTelugu": "అన్ని లోకాల యొక్క"
+        }
+      ],
+      "translation": {
+        "english": "All praise is for Allah—Lord of all worlds.",
+        "urdu": "تمام تعریفیں اللہ کے لیے ہیں جو سب جہانوں کا رب ہے۔",
+        "urduTranslitEng": "Tamaam tareefein Allah ke liye hain jo sab jahanon ka Rab hai.",
+        "urduTranslitTelugu": "తమామ్ తరీఫేన్ అల్లాహ్ కే లియే హైన్ జో సబ్ జహానోన్ కా రబ్ హై."
+      }
+    },
+    {
+      "number": 3,
+      "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "words": [
+        {
+          "arabic": "الرَّحْمَٰنِ",
+          "urdu": "نہایت مہربان",
+          "urduTranslitEng": "Nihayat Meherbaan",
+          "urduTranslitTelugu": "నిహాయత్ మెహర్‌బాన్"
+        },
+        {
+          "arabic": "الرَّحِيمِ",
+          "urdu": "نہایت رحم والا",
+          "urduTranslitEng": "Nihayat Reham wala",
+          "urduTranslitTelugu": "నిహాయత్ రెహమ్ వాలా"
+        }
+      ],
+      "translation": {
+        "english": "The Most Gracious, the Most Merciful.",
+        "urdu": "بڑا مہربان، نہایت رحم کرنے والا۔",
+        "urduTranslitEng": "Bara Meherbaan, nihayat Reham karne wala.",
+        "urduTranslitTelugu": "బడా మెహర్‌బాన్, నిహాయత్ రెహమ్ చెసే వాడి."
+      }
+    },
+    {
+      "number": 4,
+      "text": "مَالِكِ يَوْمِ الدِّينِ",
+      "words": [
+        {
+          "arabic": "مَالِكِ",
+          "urdu": "مالک",
+          "urduTranslitEng": "Malik",
+          "urduTranslitTelugu": "మాలిక్"
+        },
+        {
+          "arabic": "يَوْمِ",
+          "urdu": "دن کا",
+          "urduTranslitEng": "Din ka",
+          "urduTranslitTelugu": "రోజు యొక్క"
+        },
+        {
+          "arabic": "الدِّينِ",
+          "urdu": "بدلے کا",
+          "urduTranslitEng": "Badlay ka",
+          "urduTranslitTelugu": "ప్రతిఫల దినం"
+        }
+      ],
+      "translation": {
+        "english": "Master of the Day of Judgment.",
+        "urdu": "بدلے کے دن کا مالک ہے۔",
+        "urduTranslitEng": "Badlay ke din ka Malik hai.",
+        "urduTranslitTelugu": "ప్రతిఫల దినానికి మాలిక్ హై."
+      }
+    },
+    {
+      "number": 5,
+      "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "words": [
+        {
+          "arabic": "إِيَّاكَ",
+          "urdu": "تجھ ہی سے",
+          "urduTranslitEng": "Tujh hi se",
+          "urduTranslitTelugu": "నీతోనే"
+        },
+        {
+          "arabic": "نَعْبُدُ",
+          "urdu": "ہم عبادت کرتے ہیں",
+          "urduTranslitEng": "Hum ibaadat karte hain",
+          "urduTranslitTelugu": "మేము పూజిస్తాము"
+        },
+        {
+          "arabic": "وَإِيَّاكَ",
+          "urdu": "اور تجھ ہی سے",
+          "urduTranslitEng": "Aur tujh hi se",
+          "urduTranslitTelugu": "మరియు నీతోనే"
+        },
+        {
+          "arabic": "نَسْتَعِينُ",
+          "urdu": "مدد مانگتے ہیں",
+          "urduTranslitEng": "Madad maangte hain",
+          "urduTranslitTelugu": "సహాయం అడుగుతాము"
+        }
+      ],
+      "translation": {
+        "english": "You alone we worship and You alone we ask for help.",
+        "urdu": "ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد چاہتے ہیں۔",
+        "urduTranslitEng": "Hum teri hi ibaadat karte hain aur tujh hi se madad chahte hain.",
+        "urduTranslitTelugu": "మేము నిన్నే ఆరాధించుతాము మరియు నీ సహాయం కోరుతాము."
+      }
+    },
+    {
+      "number": 6,
+      "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "words": [
+        {
+          "arabic": "اهْدِنَا",
+          "urdu": "ہمیں دکھا",
+          "urduTranslitEng": "Humein dikha",
+          "urduTranslitTelugu": "మాకు చూపించు"
+        },
+        {
+          "arabic": "الصِّرَاطَ",
+          "urdu": "راستہ",
+          "urduTranslitEng": "Raasta",
+          "urduTranslitTelugu": "దారి"
+        },
+        {
+          "arabic": "الْمُسْتَقِيمَ",
+          "urdu": "سیدھا",
+          "urduTranslitEng": "Seedha",
+          "urduTranslitTelugu": "నేరుగా ఉన్న"
+        }
+      ],
+      "translation": {
+        "english": "Guide us along the Straight Path.",
+        "urdu": "ہمیں سیدھا راستہ دکھا۔",
+        "urduTranslitEng": "Humein seedha raasta dikha.",
+        "urduTranslitTelugu": "మాకు నేరుగా ఉన్న దారిని చూపించు."
+      }
+    },
+    {
+      "number": 7,
+      "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "words": [
+        {
+          "arabic": "صِرَاطَ",
+          "urdu": "راستہ",
+          "urduTranslitEng": "Raasta",
+          "urduTranslitTelugu": "దారి"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "urdu": "ان لوگوں کا",
+          "urduTranslitEng": "Un logon ka",
+          "urduTranslitTelugu": "వారి"
+        },
+        {
+          "arabic": "أَنْعَمْتَ",
+          "urdu": "جن پر تو نے انعام کیا",
+          "urduTranslitEng": "Jin par tu ne inaam kiya",
+          "urduTranslitTelugu": "వారిపై నీవు అనుగ్రహించావు"
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "urdu": "ان پر",
+          "urduTranslitEng": "Un par",
+          "urduTranslitTelugu": "వారి మీద"
+        },
+        {
+          "arabic": "غَيْرِ",
+          "urdu": "نہ",
+          "urduTranslitEng": "Na",
+          "urduTranslitTelugu": "కాదు"
+        },
+        {
+          "arabic": "الْمَغْضُوبِ",
+          "urdu": "جن پر غضب کیا گیا",
+          "urduTranslitEng": "Jin par ghazab kiya gaya",
+          "urduTranslitTelugu": "వారి మీద కోపం చూపబడింది"
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "urdu": "ان پر",
+          "urduTranslitEng": "Un par",
+          "urduTranslitTelugu": "వారి మీద"
+        },
+        {
+          "arabic": "وَلَا",
+          "urdu": "اور نہ",
+          "urduTranslitEng": "Aur na",
+          "urduTranslitTelugu": "మరియు కాదు"
+        },
+        {
+          "arabic": "الضَّالِّينَ",
+          "urdu": "گمراہ ہونے والوں کا",
+          "urduTranslitEng": "Gumrah hone walon ka",
+          "urduTranslitTelugu": "తప్పిపోయినవారి"
+        }
+      ],
+      "translation": {
+        "english": "The path of those You have blessed—not those who have earned Your anger or gone astray.",
+        "urdu": "ان لوگوں کا راستہ جن پر تو نے انعام کیا، جو نہ غضب والے ہیں اور نہ گمراہ۔",
+        "urduTranslitEng": "Un logon ka raasta jin par tu ne inaam kiya, jo na ghazab walay hain aur na gumrah.",
+        "urduTranslitTelugu": "నీ అనుగ్రహం పొందిన వారి దారి, కోపానికి గురైన వారి దారి కాదు, తప్పిపోయిన వారి దారి కాదు."
+      }
+    }
+  ]
+}

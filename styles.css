@@ -54,3 +54,12 @@ body, #surah-container {
 .translations {
   margin-top: 1rem;
 }
+
+ul#surah-list {
+  list-style: none;
+  padding: 0;
+  columns: 3;               /* Set number of columns */
+  column-gap: 2rem;         /* Add spacing between columns */
+  direction: ltr;           /* Left to right column flow */
+  text-align: left;         /* Align text inside the columns */
+}
