@@ -1,0 +1,77 @@
+{
+  "surah_name": "Al-Baqarah",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "الٓمٓ",
+      "words": [
+        {
+          "arabic": "الٓمٓ",
+          "urdu": "الٓمٓ",
+          "urduTranslitEng": "Alif-Laam-Meem",
+          "urduTranslitTelugu": "అలిఫ్-లామ్-మీమ్"
+        }
+      ],
+      "translation": {
+        "english": "Alif. Laam. Meem.",
+        "urdu": "الف، لام، میم۔",
+        "urduTranslitEng": "Alif, Laam, Meem.",
+        "urduTranslitTelugu": "అలిఫ్, లామ్, మీమ్."
+      }
+    },
+    {
+      "number": 2,
+      "text": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+      "words": [
+        {
+          "arabic": "ذَٰلِكَ",
+          "urdu": "یہ",
+          "urduTranslitEng": "Yeh",
+          "urduTranslitTelugu": "ఇది"
+        },
+        {
+          "arabic": "الْكِتَابُ",
+          "urdu": "کتاب",
+          "urduTranslitEng": "Kitaab",
+          "urduTranslitTelugu": "కితాబ్"
+        },
+        {
+          "arabic": "لَا",
+          "urdu": "نہیں",
+          "urduTranslitEng": "Nahi",
+          "urduTranslitTelugu": "కాదు"
+        },
+        {
+          "arabic": "رَيْبَ",
+          "urdu": "شک",
+          "urduTranslitEng": "Shak",
+          "urduTranslitTelugu": "సందేహం"
+        },
+        {
+          "arabic": "فِيهِ",
+          "urdu": "اس میں",
+          "urduTranslitEng": "Is mein",
+          "urduTranslitTelugu": "ఇందులో"
+        },
+        {
+          "arabic": "هُدًى",
+          "urdu": "ہدایت",
+          "urduTranslitEng": "Hidayat",
+          "urduTranslitTelugu": "హిదాయత్"
+        },
+        {
+          "arabic": "لِّلْمُتَّقِينَ",
+          "urdu": "پرہیزگاروں کے لیے",
+          "urduTranslitEng": "Parhezgaron ke liye",
+          "urduTranslitTelugu": "పరిహేజ్గారుల కోసం"
+        }
+      ],
+      "translation": {
+        "english": "This is the Book about which there is no doubt, a guidance for those conscious of Allah.",
+        "urdu": "یہ کتاب (وہ ہے) جس میں کچھ شک نہیں، ہدایت ہے پرہیزگاروں کے لیے۔",
+        "urduTranslitEng": "Yeh kitaab (woh hai) jis mein kuch shak nahi, hidayat hai parhezgaron ke liye.",
+        "urduTranslitTelugu": "యే కితాబ్ (వో హై) జిస్ మేన్ కుచ్ షక్ నహీ, హిదాయత్ హై పరిహేజ్గారోన్ కే లియే."
+      }
+    }
+  ]
+}
